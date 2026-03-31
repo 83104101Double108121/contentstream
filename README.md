@@ -1,4 +1,4 @@
-# Content Filter App
+# ContentStream
 
 A React + Redux based content filtering application with search, filtering, infinite scroll, and sorting features.
 
